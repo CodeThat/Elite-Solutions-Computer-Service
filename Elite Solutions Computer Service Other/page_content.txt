@@ -1,0 +1,248 @@
+Home
+
+ <p style="text-align: left;">Do you have a problem with your computer or network? Caught a virus?  Having trouble finding the right solution for you home office needs? Or just looking a  particular service not offered by the other guys? Elite Solutions can  solve many software and hardware related problems for a variety of  operating systems including Windows and Linux/Unix based platforms. Everything from computer tune ups to network  routing problems. Elite Solutions does it all.</p>
+<p style="text-align: left;">Elite Solutions Computer Service  is a premier cyber technology business, we stay up to date with the latest technology  trends. We are familiar with current techniques of computer repair and  IT problem solving. Don't break the bank using services like Geek Squad,  or go to some dated Microsoft repair man. Let <abbr title="Elite Solutions Computer Service">ESCS</abbr> get things  done the right way with affordable rates the first time. Estimates are  available. PayPal accepted. Satisfaction Guaranteed.</p>
+<p style="text-align: left;"></p>
+
+Services
+
+<div id="weebly_page_content_container">
+<div>These  are some of the standard services we offer. Rates for  standard service are per job and they are competitive. Most standard services  here can be done same day.</div>
+<br/>
+<div>
+<ul>
+	<li><a href="http://elitesolutionscomputerservice.com/services/virus-and-malware-removal" target="_self"><strong>Virus and Malware Removal</strong></a> - Remove threats from your PC. Anti-Virus configuration available.</li>
+	<li><a href="http://elitesolutionscomputerservice.com/services/computer-diagnostics-and-repair" target="_self"><strong>Computer Diagnostics and Repair</strong></a> - Computer running slow? Got a "Blue Screen of Death"? Let us take a look.</li>
+	<li><a href="http://elitesolutionscomputerservice.com/services/firewall-setup-and-configuration" target="_self"><strong>Firewall Setup and Configuration</strong></a> - Hardware and software firewall setup and configuration.</li>
+	<li><a href="http://elitesolutionscomputerservice.com/services/wireless-networking" target="_self"><strong>Wireless Networking</strong></a> - WLAN configuration and troubleshooting.</li>
+	<li><a href="http://elitesolutionscomputerservice.com/services/networking" target="_self"><strong>Networking Service</strong></a> - All inclusive Network Service. Office, Home, or Business.</li>
+	<li><a href="http://elitesolutionscomputerservice.com/services/email-services" target="_self"><strong>Email Service </strong></a>- Need a help with a mail server? Or need a lesson on how to use email.</li>
+	<li><a href="http://elitesolutionscomputerservice.com/services/computer-upgrades-and-builds" target="_self"><strong>Computer Upgrades and Builds</strong></a> - Thinking about upgrading? Need to put together some hardware?</li>
+	<li><a href="http://elitesolutionscomputerservice.com/services/microsoft-training " target="_self"><strong>Microsoft Training</strong> </a>- Want to learn MS Office? Or need basic Microsoft desktop training?</li>
+	<li><a href="http://elitesolutionscomputerservice.com/services/software-installation" target="_self"><strong>Software Installation</strong></a> - Windows, Linux, Firewall, Database, Web Applications...got something else?</li>
+	<li><a href="http://elitesolutionscomputerservice.com/linux-unix-support" target="_self"><strong>Linux/UNIX Support</strong></a> - This is hard to find. General questions and help with various Linux configurations.</li>
+	<li><strong><a href="http://elitesolutionscomputerservice.com/linux/remote-repair-service" target="_self">Remote Repair Service</a> </strong>- Some problems can be fixed by a remote connection to your PC.</li>
+</ul>
+Looking for something else? Browse our elite services page for <a href="http://elitesolutionscomputerservice.com/elite-services" target="_self">advanced computer services</a>.
+
+</div>
+</div>
+
+Computer Diagnostics and repair
+Due to the nature of the web and the way many popular file system work, your computer will inevitably need a tune up.  With the Computer Repair and Diagnostics Services, you will end up with a faster, smoother running PC. In this process, we will conduct:
+<ul>
+	<li>Junk removal on your PC. Removal of unwanted programs and hidden temporary files. Did you know that certain types of cookies can never be removed? They often mimic malicious programs uploading your browsing history and what you to to a remote server. We can remove this type of junk from your PC.</li>
+</ul>
+<ul>
+	<li>Identification of program errors.  Program errors can result in "Blue Screens of Death" (BSOD). locking up your PC and crashing your hard drive.</li>
+</ul>
+<ul>
+	<li>Start-up program analysis. Often times, when you install a program on your PC, the program tells the computer to start it up in the background. This is almost always unnecessary and will lead to large speed decreases. This will increase your computer boot time and overall operating speed significantly.</li>
+</ul>
+<ul>
+	<li>Hard drive and memory corruption check. Repair of bad sectors in your hard drive and memory.  This will identify drives that are near end-of-life (EOL).</li>
+</ul>
+<ul>
+	<li>Windows registry fix. The process of un-installaling and installing programs over-time will result in corrupt registry entries. These entries will clutter up your PC and slow you down. Your PC will try to find and index programs that aren't there anymore and will waste valuable processor power on this.</li>
+</ul>
+This service is also great for organization that have batches of older computers that they want to give new life to.  This would be a cheaper solution than buying brand new PCs for task that don't really require newer hardware.
+
+Have a question about this service? Please visit our <a href="http://elitesolutionscomputerservice.com/contact" target="_self">Contact</a> page.
+
+Computer Upgrades and builds
+With our Computer Upgrades and Builds Service, we can assist you in upgrading your home computer or even network hardware for a small business. Upgrading can end up being a very costly and time consuming ordeal when not planned or carried out correctly. Let us handle this for you to ensure you have minimal down time.
+
+Included in this service is the capability to build you a computer from scratch. This often ends up being slightly cheaper then buying pre-built computers. A side effect of building computers this why is that it is easier to conduct upgrades in the future. You aren't bound to proprietary hardware. Picking the right components of a computer system can be very tricky. And should be done by someone more familiar with computer hardware and architecture.
+<ul>
+	<li>Gaming computer construction.</li>
+	<li>Desktop computer upgrading.</li>
+	<li>Custom built computers.</li>
+	<li>Hardware purchasing assistance.</li>
+</ul>
+For more information about this service, please use the <a href="http://elitesolutionscomputerservice.com/contact" target="_self">contact</a> page.
+
+Email Services
+Whether it be a business mail account or just your web mail account online, we offer assistance for both categories. ESCS mail services provide professional assistance for problems related to email and related network devices.
+<ul>
+	<li>Configuration of Outlook for use at home and small business domains.</li>
+	<li>Setup up of webmail accounts with features. (Gmail, livemail, yahoo , etc.)</li>
+	<li>Add new users to a mail server.</li>
+	<li>Mail server installation.</li>
+	<li>Set up and install local mail encryption schemes.</li>
+	<li>Remote login setup for business mail.</li>
+	<li>Installation of  encryption certificates inside your mail client.</li>
+	<li>Lessons: How to use email. All ages, great for seniors.</li>
+	<li>Mail account forwarding.</li>
+	<li>Email account combination.</li>
+</ul>
+Please use our contact page to request <a href="http://elitesolutionscomputerservice.com/contact" target="_self">more information about our mail services</a>.
+
+Firewall Setup and configuration
+Firewalls are a from of protection that separate you from the public internet. These are two ways to deploy firewalls. A standalone hardware firewall can be installed between you and the internet, blocking malicious request and probes directed at your computer; Or a software firewall can be configured on your computer with rule sets that determine what goes in and out of your computer. For instance, in the event an attacker successfully plants a trojan on your computer, it may be rendered useless by blocking the trojan from connecting back to the attacker.
+
+Our Firewall Setup and Configuration service can help you determine what solution best fits your needs.  Whether you need a enterprise class firewall for your business, or a personal firewall for your desktop. Elite Solutions Computer Service will take care of this critical task.
+
+Here are some of the things that can be done with this service:
+<ul>
+	<li>Software firewall installation and configuration to your needs.</li>
+	<li>Convert old computer into a powerful Linux based firewall.</li>
+	<li>Hardware firewall installation and configuration.</li>
+	<li>Port forwarding schemes on existing firewalls to allow new network services.</li>
+	<li>Iptables schema setup for your needs.</li>
+</ul>
+Network security is important. Let us help you achieve a<a href="http://elitesolutionscomputerservice.com/contact" target="_self"> safe network by contacting us today</a>.
+
+Linux Supoort
+Linux has grown to become very popular over the years., and is continuing to grow in it's user base. Many business have looked to open source solution to provide a low cost method of deploying their infrastructure online. Today, open source software is used literally everywhere. The Linux based Apache web server  currently serves over 55% of all websites, and 66% of the top million busiest sites. Linux and it's errors can be complicated to the uninitiated, and many problems can arise when a Linux machine isn't configured correctly. Many Information technology professionals consider properly configured Linux computers to be among the strongest that exist.
+
+Our Linux Support Service is here to aid you in your Linux related woes. We have over a decade of Linux experience at our hands with in depth experience with the various distributions of Linux. We've set up countless Linux based firewalls, web-servers, desktops, and even lesser know devices such as honeypots. At ESCS, Linux is are preferred operating system, you will find a wealth of Linux knowledge at your disposal when you ask for help here.
+
+Some key features of his services are:
+<ul>
+	<li>Linux system repair.</li>
+	<li>Linux web server installation.</li>
+	<li>Linux based firewall installation.</li>
+	<li>Integration with Windows environments.</li>
+	<li>Dual-booting Windows and Linux.</li>
+	<li>Error message troubleshooting for Linux computers.</li>
+	<li>Lessons: How to use Linux and how to use it's "shell"</li>
+	<li>Remotely connecting to Linux computers.</li>
+	<li>Linux encryption.</li>
+	<li>Installation of Linux onto unusual electronic devices.</li>
+</ul>
+For more information about specific Linux topics, use our <a href="http://elitesolutionscomputerservice.com/contact" target="_self">contact page to verse you question</a>.
+
+Micorsoft Training
+Microsoft is the number one desktop operating system in the world. Those without knowledge of how to harness it's power, will find themselves falling behind the curve when it comes to technology and our society. Fortunately, Microsoft was designed in an intuitive manner, with proper training, an individual can become a power user in no time.
+
+Our Microsoft Training Service program is available for all ages, this program is great for seniors looking to get on and get in touch with relatives. Or even just to learn about a particular Microsoft product. Many employers ask that their employees have basic knowledge of it's use and features.Add new skills to your resume with our MS training program. Become enlightened.
+
+Some features the Microsoft training Service are:
+<ul>
+	<li>MS Windows lessons. Learn to use it's basic functions. Any release.</li>
+	<li>Training for Seniors, available in groups.</li>
+	<li>Training with the entire MS Office Suite. To include: Word, Excel, Power Point, Publisher, Access.</li>
+	<li>How to use Microsoft's built in media programs.</li>
+	<li>Becoming a power user.</li>
+	<li>Using Microsoft to share media with other computers.</li>
+	<li>Setup and use Facebook on Microsoft systems.</li>
+</ul>
+To setup a training lesson, <a href="http://elitesolutionscomputerservice.com/contact" target="_self">please use the contact form</a>. We will reply within 24 hours.
+
+
+Software Installation
+
+If you have software you need to install, let us take the guess-work out of the equation. Often, software will ask the user specific technical questions about how it should be configured and installed.  Installations by skilled computer technicians will prevent you from having to worry about this. We are able to handle installs of various types of software easily.
+
+We are experienced with installing many types of programs:
+
+    * Windows
+    * Linux
+    * Web Servers Software
+    * Firewall Software
+    * Application Software
+    * Multimedia Software
+    * Database Software
+    * And many more!
+
+For more information about this service, use our contact page.
+
+
+Virus and Malware Removal
+
+Did you know that there exist well over 1 million different types of known viruses? That’s not even counting custom trojans and malware that haven’t or may never be tracked. The overwhelming majority of those are designed to infect Windows PC’s.  viruses and malware can be devastating. Remote Access Trojans (RAT’S), allow an attacker to remotely connect to you PC, with the ability to upload key-loggers and spread more malware through the internet. Sometimes they even launch attacks from your PC without your knowledge. There are many obvious reasons why this is bad.
+
+    * What is a virus? A virus is program who’s sole intention is to cause undesired effects to your PC, almost always destructive. These programs are the plaque of the intent and serve no real purpose.
+    * what is a trojan? Trojans are programs that are uploaded onto another PC, usually remotely, providing an attacker access to you computer. These can be the most dangerous because a live person is involved here. They are usually there to steal bank account, login credentials, personal files, and to use your PC s a proxy to conduct illegal activity.
+    * What’s malware? Malware is short for malicious software, and is sort of a catch all phrase for any un-wanted programs that cause undesired effects on your PC. This includes viruses, trojans, key-loggers, cookie stealer’s. etc.
+
+Elite Solutions Computer Services is capable of removing such threats from infected computers.
+
+If you have an infection or even think you have an infection, contact us today!
+
+
+Remote Repair Service
+
+Sometimes, it is possible to provide assistance to computers remotely. By activating the remote assistance program in Windows clients, we can administer your computer from our office. This works well for clients who are considerable distance from us or when in is inconvenient for us to administer the computer. However, there are some preliminary settings that would need to be made in order to utilize this feature.
+
+Mainly, activation of the remote assistance service on the affected computer, and in the case of clients behind firewalls and routers, they would need to be set up for port forwarding. This is not always the best option, particularly, in cases when the computer is malfunctioning or not booting. Contact us to see if you qualify for this service.
+
+For more information about this service, use our contact page.
+
+Consulting
+
+Our IT consulting services will put you a step ahead of would be attackers.  It is a fact that any internet connected device gets scanned daily by attackers programs looking for specific vulnerabilities. Don’t be caught with holes in your security. Business owners are legally responsible for holding client credentials in a secure manner. You do not want to be on the receiving end of an attack from a professional hacker; You will not know your data is stolen until it’s too late.
+
+Our security professionals are prepared to help secure you networks today.  Security audits are always eye opening, you will be provided with what an attacker sees when looking at your network. Data security is at the center of all IT activity. Do not overlook this critical aspect of your business.
+
+    * General Computer Consulting – Advice and recommendations to meet your needs.
+    * Web Page Security Audits – Let us find your web pages weak spots.
+    * Network Security Audits – Network Penetration testing and vulnerability identification.
+    * Wireless Network Audits – Is your wireless network providing personal data to attackers or nosy neighbors? Let us audit it and secure it for you.
+    * Attack Response – Are you a victim of a cyber attack? Has someone gotten in your PC or network? Let us help you recover from this.
+
+Security audits come with a full write up of vulnerabilities found and recommendations on how to guard against them. We guarantee we will find something. This service requires a waiver and signed consent to perform vulnerability disclosure and network penetration services.
+
+Have a question about our Consulting services? Submit you questions through our Contact form
+
+Elite Services
+
+The elite services section offers solutions to problems that require a bit more skill and/or the use of custom software. Rates for these services vary.
+
+    * Password Recovery – Recovery or blanking of a computers user passwords.
+    * Computer Un-locking Service – Bypass the login on any Windows release. This service is also available for most Linux distributions as well.
+    * Image Recovery – Accidentally deleted images from your hard drive? Need to see what images and documents were on a computer before a re-format or deletion?
+    * Information Gathering – Need information on somebody? Want to check out that company a bit more? Need to find out the information of the person behind a phone number? 100% legal, Confidentiality, guaranteed.
+    * Hard Drive Encryption – Encrypt your hard drive and keep your data secure.
+    * Anonymous Web Browsing - Can be set up with a tutorial. Very easy to use once installed. Will enable you to browse the Internet anonymously. Added bonus: leaves no footprints on your PC.
+    * Other - Have something else in mind? Please submit your technical questions through our contact page.
+
+
+
+Password Recovery
+
+If you have ever forgotten a password or user-name, you know how frustrating that can be. All your data and files are locked inside your computer indefinitely. With the Password Recovery Service, you can you will be provided the forgotten passwords for your computer. This service is provided for the Windows and Linux family of operating systems.  Typically, the average Windows password can be recovered within minutes. Recovery for Linux passwords are variable, depending on password complexity.
+
+For more information regarding this service, please navigate to the contact page.
+
+
+Wireless Networking
+
+The Wireless Networking Service is an all inclusive solution for any of  your wireless needs. Expanding any network for wireless access can be tricky. Troubleshooting them can be even trickier. Let our experts take care of your network, and get you connected today!
+
+Some features of this service are:
+
+    * WLAN Configuration
+    * Wireless connectivity problems
+    * Wireless encryption installation WEP/WPA
+    * Wireless Troubleshooting
+    * Home Wireless Setup
+    * Business Class Wireless Networking Configuration
+
+For more information about our Wireless Networking Service, contact us today!
+
+Contact
+
+Elite Solutions Computer Service
+(978) 912-0126
+Haverhill, MA
+
+Have a question about services or pricing?
+*(denotes required field)
+Name: *
+E-Mail Address: *
+Subject: *
+Message: *
+CAPTCHA Code: *
+CAPTCHA Image
+CAPTCHA Audio
+Refresh Image
+
+Powered by Fast Secure Contact Form
+
+
+About
+
+Elite Solutions Computer Service (ESCS),  was founded based on the needs of every person who uses computers and technology. A wide variety of problems arise from the regular (and sometimes irregular) use of today’s technology. ESCS wants to be your go-to for these types of problems, no matter what the magnitude. Problem prevention is also a big part of our service. Half of the repairs we make could have been avoided if the proper conventions were in place. Whenever a service is performed, we make every effort to be ensure our clients understand what has happened.
+
+We understand cost is an attribute very important to our clients. That’s why we support the use of open source software. Eliminating software related expenses is a great way for you to save money. Often times, where a software solution is needed, an open source application exist that is of similar or better quality then a commercial solution.

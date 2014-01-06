@@ -1,0 +1,82 @@
+body {
+font-family:verdana, arial, 'sans serif';
+background-image:url(bg.png);
+color:#3399FF;
+padding:0px;
+margin:0px;
+}
+
+
+/* --------Div Styles-------- */
+
+/* Header */
+#header {
+position:absolute;
+top:25px;
+left:40px;
+text-align:center;
+display:block;
+width:1296px;
+height:96px;
+z-index:0;
+}
+
+/* Left Sidebar */
+#left_sidebar {
+	position:absolute;
+	top:202px;
+	left:118px;
+	text-align:center;
+	display:block;
+	width:142px;
+	height:332px;
+}
+
+/* Right Sidebar */
+#right_sidebar {
+position:absolute;
+top:202px;
+left:1135px;
+text-align:right;
+display:block;
+width:128px;
+height:332px;
+}
+
+/* Middle Area */
+.content {
+	position:absolute;
+	left:327px;
+	top:138px;
+	text-align:center;
+	display:block;
+	width:725px;
+	height:618px;
+	margin-top:0px;
+	margin-bottom:0px;
+	padding:0px;
+	
+}
+
+.content .text {
+position:absolute;
+top:110px;
+left:80px;
+width:550px;
+font-family:serif;
+font-size:17px;
+color:#1793D1;
+}
+
+
+/* Bottom Right Graphic */
+#honeycomb {
+position:absolute;
+top:390px;
+left:1000px;
+text-align:right;
+display:block;
+width:470;
+height:373;
+z-index:-3;
+}

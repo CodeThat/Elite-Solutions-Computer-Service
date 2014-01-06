@@ -1,0 +1,67 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+ "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>Elite Solutions Computer Service</title>
+<link rel="stylesheet" href="style.css" type="text/css" media="screen" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="Keywords" content="computer, computers, repair, microsoft, linux, bluescreen, viruses, removal, install, haverhill, software, hardware, web, wireless, network, troubleshoot, web design, graphic, graphic design, site, sites, develop, buisiness, logos, seo, modernization" />
+<meta name="Description" content="A computer service offering web design and computer repair, located in Haverhill, MA" />
+</head>
+
+<body>
+<div id="outside_container">
+  <div id="container">
+    <ul id="menu">
+      <li><a href="services.html">Services</a></li>
+      <li><a href="web_design.html">Web Design</a></li>
+      <li><a href="elite_services.html">Elite Services</a></li>
+      <li><a href="gallery.html">Gallery</a></li>
+    </ul>
+    <ul id="right_menu">
+      <li><a href="about.html">About</a></li>
+      <li><a href="contact.html">Contact</a></li>
+    </ul>
+    <img src="images/panel_home.png" id="panel" /> <a href="index.html"><img src="images/logo.png" id="logo" /></a>
+    <div id="content">
+      <div class="column1">
+        <h2>Web 2.0</h2>
+        <p>Modern, appealing web applications are the basis of web 2.0. Whether it be a front-end for your business, a personal blog, wikis, 
+          video sharing, hosted services, web apps, mash ups or folksonomie. Elite Solutions is prepared to take your web presence to another level.</p>
+      </div>
+      <div class="column2">
+        <h2>Computer Service</h2>
+        <p>We have years of experience working with a wide range of computing technologies. On-site and remote computer repair services are available. This includes, but is not limited to, all varieties of network appliances and computer software. Browse our services page to find a solution that meets your needs.</p>
+      </div>
+      <div class="column3">
+        <h2>Technology</h2>
+        <p>Elite Solutions Computer Service  is a premier cyber technology business, we stay up to date with the latest technology  trends. We are familiar with current techniques of computer repair and  IT problem solving. Let <abbr title="Elite Solutions Computer Service">ESCS</abbr> get things  done the right way with affordable rates the first time. Estimates are available. PayPal accepted. Satisfaction Guaranteed.</p>
+        </p>
+      </div>
+      <div style="clear:both"></div>
+    </div>
+  </div>
+</div>
+<div id="footer"> <span id="footer_text"> &copy; 2010 Elite Solutions Computer Service </span>
+  <p> <a href="http://validator.w3.org/check/referer"><img
+          src="http://www.w3.org/Icons/valid-xhtml10"
+          alt="Valid XHTML 1.0!" height="31" width="88" /></a> </p>
+</div>
+</div>
+<script type="text/javascript">
+	var analyticsFileTypes = [''];
+	var analyticsEventTracking = 'enabled';
+</script> 
+<script type="text/javascript">
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-17220244-2']);
+	_gaq.push(['_trackPageview']);
+
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+</script>
+</body>
+</html>
